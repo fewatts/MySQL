@@ -5,8 +5,8 @@ CREATE TABLE aluno(
 	id BIGINT AUTO_INCREMENT PRIMARY KEY,
 		nome VARCHAR(50),
 		matricula VARCHAR(12),
-        curso VARCHAR(30),
-        nota DECIMAL(4, 1)
+        	curso VARCHAR(30),
+        	nota DECIMAL(4, 1)
 );
 
 INSERT INTO aluno(nome, matricula, curso, nota)
