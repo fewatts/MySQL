@@ -19,4 +19,3 @@ INSERT INTO tb_produtos(nome_produto, preco) VALUES
 ("Tomate", 5.00);
 
 UPDATE tb_produtos SET preco = 7.90 WHERE id = 2;
-
