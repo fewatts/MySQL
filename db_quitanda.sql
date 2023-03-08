@@ -6,8 +6,8 @@ USE db_quitanda;
 
 CREATE TABLE tb_produtos(
 	id BIGINT AUTO_INCREMENT PRIMARY KEY,
-    nome_produto VARCHAR(30),
-    preco DECIMAL(6, 2)
+  	  nome_produto VARCHAR(30),
+   	  preco DECIMAL(6, 2)
 );
 
 SELECT * FROM tb_produtos;
