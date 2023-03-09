@@ -6,7 +6,7 @@ CREATE TABLE produtos(
 		nome VARCHAR(50),
 		preco DECIMAL(8, 2) NOT NULL,
 		categoria VARCHAR(25),
-        quantidade INT
+        	quantidade INT
 );
 
 INSERT INTO produtos(nome, preco, categoria, quantidade)
