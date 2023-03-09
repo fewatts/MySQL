@@ -25,7 +25,7 @@ VALUES ("Tigerhead - HÖR", 30.43, 2020, 1),
 ("KILlEKILL PODCAST #31: TigerHead", 20.99, 2015, 4),
 ("VoxNox PodCast 179 - Tigerhead", 13.43, 2017, 4),
 ("NikKatze - PreBloody", 300.43, 2022, 1),
-("Schwefwlgelb", 23.34, 2023, 3);
+("Schwefelgelb", 23.34, 2023, 3);
 -- Until here ok;
 SELECT * FROM vinil WHERE preco > 40;
 -- Until here ok;
